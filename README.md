@@ -17,7 +17,7 @@ Yolo v8n 버전과 AI HUB의 재활용쓰레기 데이터셋을 이용한 재활
 </p>
 
 <p align="center">
-GIF Images
+<img src="./images/move_garbage.gif">
 </p>
 
 <br>
