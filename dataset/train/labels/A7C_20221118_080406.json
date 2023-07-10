@@ -1,0 +1,45 @@
+{
+	"objects": [
+		{
+			"id": "9e4eeb79-057f-4551-b952-43a93ad7c9e7",
+			"class_id": "e0925dc8-44f6-4bf4-b3ee-7c6d4ae7524a",
+			"tracking_id": 1,
+			"class_name": "c_1_01",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 776.0458308693082,
+					"y": 0,
+					"width": 460.1116203429922,
+					"height": 287.90190715552933
+				},
+				"meta": {
+					"z_index": 1,
+					"visible": true,
+					"alpha": 1,
+					"color": "#D5EBFF"
+				}
+			},
+			"properties": []
+		}
+	],
+	"categories": {
+		"properties": []
+	},
+	"Image": "A7C_20221118_080406.jpg",
+	"Info": {
+		"PLACE": "실내",
+		"GPS": "35.478736/128.459071",
+		"ADDRESS": "신구윗담길, 외부리, 창녕군, 경상남도, 50337, 대한민국",
+		"METHOD": "A7C",
+		"DATE": "2022-11-18",
+		"DAY/NIGHT": "주간",
+		"DEVICE": "HU205",
+		"BRAND": "HUENTEK",
+		"RESOLUTION": "1847/883",
+		"COLOR": 1,
+		"ROTATE": 0,
+		"EXPOSURE": "0.002",
+		"ISO": 0
+	}
+}

@@ -1,0 +1,67 @@
+{
+	"objects": [
+		{
+			"id": "82e80275-a8f3-4510-a86f-b7d11f147b31",
+			"class_id": "0346539d-e78c-4a1f-8755-ebf6b3c89f6a",
+			"tracking_id": 2,
+			"class_name": "c_7_01",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 1133.5627633429565,
+					"y": 9.11,
+					"width": 203.06999999999994,
+					"height": 218.11
+				},
+				"meta": {
+					"z_index": 0,
+					"visible": true,
+					"alpha": 1,
+					"color": "#EB5222"
+				}
+			},
+			"properties": []
+		},
+		{
+			"id": "abe82f38-4570-470c-8e38-b534b95e2d83",
+			"class_id": "0346539d-e78c-4a1f-8755-ebf6b3c89f6a",
+			"tracking_id": 3,
+			"class_name": "c_7_01",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 424.1,
+					"y": 0,
+					"width": 535.6999999999999,
+					"height": 231.21
+				},
+				"meta": {
+					"z_index": 0,
+					"visible": true,
+					"alpha": 1,
+					"color": "#EB5222"
+				}
+			},
+			"properties": []
+		}
+	],
+	"categories": {
+		"properties": []
+	},
+	"Image": "A7C_20221118_098678.jpg",
+	"Info": {
+		"PLACE": "실내",
+		"GPS": "35.478736/128.459071",
+		"ADDRESS": "신구윗담길, 외부리, 창녕군, 경상남도, 50337, 대한민국",
+		"METHOD": "A7C",
+		"DATE": "2022-11-18",
+		"DAY/NIGHT": "주간",
+		"DEVICE": "HU205",
+		"BRAND": "HUENTEK",
+		"RESOLUTION": "1847/883",
+		"COLOR": 1,
+		"ROTATE": 0,
+		"EXPOSURE": "0.002",
+		"ISO": 0
+	}
+}

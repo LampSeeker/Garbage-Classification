@@ -1,0 +1,155 @@
+{
+	"objects": [
+		{
+			"id": "27ec146c-4ca0-42e7-8ccf-98338c36521e",
+			"class_id": "292c5b9c-e203-4ec1-9ca8-7579273fc70c",
+			"tracking_id": 1,
+			"class_name": "c_6",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 1250.2695610333853,
+					"y": 651.3708268561699,
+					"width": 95.70656599304152,
+					"height": 92.97209267895482
+				},
+				"meta": {
+					"z_index": 1,
+					"visible": false,
+					"alpha": 1,
+					"color": "#C9F6EA"
+				}
+			},
+			"properties": []
+		},
+		{
+			"id": "79aa16f5-1ab1-4c6c-a2a1-14c27aa8b555",
+			"class_id": "916ce2cb-6bee-423f-98a5-61dc70f57c53",
+			"tracking_id": 2,
+			"class_name": "c_3",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 846.9347472055666,
+					"y": 0,
+					"width": 348.6453475460804,
+					"height": 309.56166259530676
+				},
+				"meta": {
+					"z_index": 2,
+					"visible": false,
+					"alpha": 1,
+					"color": "#FFDFD5"
+				}
+			},
+			"properties": []
+		},
+		{
+			"id": "65729d78-f492-46a0-9400-8ffe2fad4a18",
+			"class_id": "916ce2cb-6bee-423f-98a5-61dc70f57c53",
+			"tracking_id": 3,
+			"class_name": "c_3",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 1153.1957583833,
+					"y": 0,
+					"width": 330.8712710045156,
+					"height": 127.71918720852764
+				},
+				"meta": {
+					"z_index": 3,
+					"visible": false,
+					"alpha": 1,
+					"color": "#FFDFD5"
+				}
+			},
+			"properties": []
+		},
+		{
+			"id": "f33a8329-59f5-4ba9-964a-ff3397b5033c",
+			"class_id": "916ce2cb-6bee-423f-98a5-61dc70f57c53",
+			"tracking_id": 4,
+			"class_name": "c_3",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 1557.897808868162,
+					"y": 0,
+					"width": 188.67865867199657,
+					"height": 220.6912798874824
+				},
+				"meta": {
+					"z_index": 4,
+					"visible": false,
+					"alpha": 1,
+					"color": "#FFDFD5"
+				}
+			},
+			"properties": []
+		},
+		{
+			"id": "2899c358-2334-4609-9999-35f5df464c22",
+			"class_id": "06852717-c0c4-4200-a1ae-3648413cc30a",
+			"tracking_id": 5,
+			"class_name": "c_3_01",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 1207.8852246650383,
+					"y": 49.78669775705083,
+					"width": 298.0575912354725,
+					"height": 257.0404915241691
+				},
+				"meta": {
+					"z_index": 5,
+					"visible": false,
+					"alpha": 1,
+					"color": "#D1C8FF"
+				}
+			},
+			"properties": []
+		},
+		{
+			"id": "2dbca1f5-4f64-44ce-9b99-8e6c378451ae",
+			"class_id": "916ce2cb-6bee-423f-98a5-61dc70f57c53",
+			"tracking_id": 6,
+			"class_name": "c_3",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 1365.1174402250354,
+					"y": 432.61296172921755,
+					"width": 340.4419276038195,
+					"height": 321.30061440521126
+				},
+				"meta": {
+					"z_index": 6,
+					"visible": false,
+					"alpha": 1,
+					"color": "#FFDFD5"
+				}
+			},
+			"properties": []
+		}
+	],
+	"categories": {
+		"properties": []
+	},
+	"Image": "A7C_20221118_006067.jpg",
+	"Info": {
+		"PLACE": "실내",
+		"GPS": "35.478736/128.459071",
+		"ADDRESS": "신구윗담길, 외부리, 창녕군, 경상남도, 50337, 대한민국",
+		"METHOD": "A7C",
+		"DATE": "2022-11-18",
+		"DAY/NIGHT": "주간",
+		"DEVICE": "HU205",
+		"BRAND": "HUENTEK",
+		"RESOLUTION": "1847/883",
+		"COLOR": 1,
+		"ROTATE": 0,
+		"EXPOSURE": "0.002",
+		"ISO": 0
+	}
+}

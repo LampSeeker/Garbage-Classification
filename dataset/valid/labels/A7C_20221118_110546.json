@@ -1,0 +1,199 @@
+{
+	"objects": [
+		{
+			"id": "d6199630-5090-4648-a776-f03068b15cb1",
+			"class_id": "85cc57ee-fe38-4955-b797-40cab1f2e7d7",
+			"tracking_id": 1,
+			"class_name": "c_6_01",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 288.41629628416047,
+					"y": 463.78923234020925,
+					"width": 169.02881459559097,
+					"height": 156.2374448424112
+				},
+				"meta": {
+					"z_index": 1,
+					"visible": true,
+					"alpha": 1,
+					"color": "#EE0A00"
+				}
+			},
+			"properties": []
+		},
+		{
+			"id": "a13958e6-30b4-49bd-bb3e-87f5693626ee",
+			"class_id": "85cc57ee-fe38-4955-b797-40cab1f2e7d7",
+			"tracking_id": 2,
+			"class_name": "c_6_01",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 672.1673658151402,
+					"y": 0,
+					"width": 207.5469020565912,
+					"height": 114.04168785263568
+				},
+				"meta": {
+					"z_index": 2,
+					"visible": true,
+					"alpha": 1,
+					"color": "#EE0A00"
+				}
+			},
+			"properties": []
+		},
+		{
+			"id": "a4792d9c-42ff-4d98-8d69-ffd0cf7e16ef",
+			"class_id": "292c5b9c-e203-4ec1-9ca8-7579273fc70c",
+			"tracking_id": 3,
+			"class_name": "c_6",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 813.1035075140842,
+					"y": 0,
+					"width": 310.7389752696977,
+					"height": 397.1980758852677
+				},
+				"meta": {
+					"z_index": 3,
+					"visible": true,
+					"alpha": 1,
+					"color": "#C9F6EA"
+				}
+			},
+			"properties": []
+		},
+		{
+			"id": "a70b20ba-794b-48ac-acb5-4c0c6d376963",
+			"class_id": "0a796208-afce-4074-99d5-5ca51945905b",
+			"tracking_id": 4,
+			"class_name": "c_8_01_01",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 1242.5230770346316,
+					"y": 0,
+					"width": 191.349622935634,
+					"height": 267.0322628359488
+				},
+				"meta": {
+					"z_index": 4,
+					"visible": true,
+					"alpha": 1,
+					"color": "#00CECE"
+				}
+			},
+			"properties": []
+		},
+		{
+			"id": "3a855f57-96ae-49db-be05-21996d9fd8de",
+			"class_id": "0a796208-afce-4074-99d5-5ca51945905b",
+			"tracking_id": 5,
+			"class_name": "c_8_01_01",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 1426.286577810141,
+					"y": 334.66744020471253,
+					"width": 76.5681253231287,
+					"height": 151.86011522420552
+				},
+				"meta": {
+					"z_index": 5,
+					"visible": true,
+					"alpha": 1,
+					"color": "#00CECE"
+				}
+			},
+			"properties": []
+		},
+		{
+			"id": "d2e73e6f-cca9-4636-9f60-595f95983305",
+			"class_id": "916ce2cb-6bee-423f-98a5-61dc70f57c53",
+			"tracking_id": 6,
+			"class_name": "c_3",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 728.2405019476164,
+					"y": 522.8974149574042,
+					"width": 304.358298159437,
+					"height": 275.00718345223765
+				},
+				"meta": {
+					"z_index": 6,
+					"visible": false,
+					"alpha": 1,
+					"color": "#FFDFD5"
+				}
+			},
+			"properties": []
+		},
+		{
+			"id": "54344df9-fccc-4c3d-a2e3-a4bf3a4b34c4",
+			"class_id": "06852717-c0c4-4200-a1ae-3648413cc30a",
+			"tracking_id": 7,
+			"class_name": "c_3_01",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 885.8432265710566,
+					"y": 656.8916342728796,
+					"width": 375.8218817943572,
+					"height": 204.1816675283435
+				},
+				"meta": {
+					"z_index": 7,
+					"visible": true,
+					"alpha": 1,
+					"color": "#D1C8FF"
+				}
+			},
+			"properties": []
+		},
+		{
+			"id": "33bdf11a-9713-4ee1-86df-853a943d20be",
+			"class_id": "85cc57ee-fe38-4955-b797-40cab1f2e7d7",
+			"tracking_id": 8,
+			"class_name": "c_6_01",
+			"annotation_type": "box",
+			"annotation": {
+				"coord": {
+					"x": 717.3933508601732,
+					"y": 831.7221870940238,
+					"width": 157.04973989056975,
+					"height": 51.27781290597625
+				},
+				"meta": {
+					"z_index": 8,
+					"visible": true,
+					"alpha": 1,
+					"color": "#EE0A00"
+				}
+			},
+			"properties": []
+		}
+	],
+	"categories": {
+		"properties": []
+	},
+	"Image": "A7C_20221118_110546.jpg",
+	"Info": {
+		"PLACE": "실내",
+		"GPS": "35.478736/128.459071",
+		"ADDRESS": "신구윗담길, 외부리, 창녕군, 경상남도, 50337, 대한민국",
+		"METHOD": "A7C",
+		"DATE": "2022-11-18",
+		"DAY/NIGHT": "주간",
+		"DEVICE": "HU205",
+		"BRAND": "HUENTEK",
+		"RESOLUTION": "1847/883",
+		"COLOR": 1,
+		"ROTATE": 0,
+		"EXPOSURE": "0.002",
+		"ISO": 0
+	}
+}
