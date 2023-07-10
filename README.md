@@ -4,7 +4,7 @@
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  <img src="./images/github_main_images.png">
   <br>
 </p>
 
@@ -13,7 +13,7 @@
 ## 프로젝트 소개
 
 <p align="justify">
-프로젝트 개요/동기
+Yolo v8n 버전과 AI HUB의 재활용쓰레기 데이터셋을 이용한 재활용 분류 모델
 </p>
 
 <p align="center">
