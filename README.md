@@ -1,6 +1,4 @@
-# Garbage-Classification
-
-# 프로젝트 이름
+# 재활용품 분리배출 도우미
 
 <p align="center">
   <br>
@@ -13,7 +11,9 @@
 ## 프로젝트 소개
 
 <p align="justify">
-Yolo v8n 버전과 AI HUB의 재활용쓰레기 데이터셋을 이용한 재활용 분류 모델
+Yolo v8 모델을 사용한 Object Detection으로 사용자가 재활용을 올바르게 할 수 있도록 돕는다. 
+
+Dataset - [AI-HUB 생활폐기물 데이터 ](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71385)
 </p>
 
 <p align="center">
