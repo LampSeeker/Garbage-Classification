@@ -60,13 +60,13 @@
 
 ## 디렉토리 설명
 
-Garbage-Classification
-┣ Mobile_Develop 
-┣ Model_Develop 
-┃ ┣ Custom_Model  
-┃ ┃ ┣ ultralytics  
-┃ ┃ ┣ Dataset_Sampling  
-┃ ┃ ┗ Dataset_Visualization
+Garbage-Classification<br>
+┣ Mobile_Develop <br>
+┣ Model_Develop <br>
+┃ ┣ Custom_Model  <br>
+┃ ┃ ┣ ultralytics <br> 
+┃ ┃ ┣ Dataset_Sampling  <br>
+┃ ┃ ┗ Dataset_Visualization<br>
 
 
 
