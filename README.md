@@ -1,9 +1,8 @@
-<p align="center">
-  # PROJECT NAME : 재활용품 분리배출 도우미
-  <br>
-  <img src="./images/github_main_images.png" style="zoom:70%"/>
-  <br>
-</p>
+
+# PROJECT NAME : 재활용품 분리배출 도우미
+
+<img src="./images/github_main_images.png" style="zoom:30%"/>
+
 
 목차
 
