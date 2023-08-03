@@ -7,9 +7,9 @@
 
 ## 프로젝트 소개
 
-Yolo v8 모델을 사용한 Object Detection으로 사용자가 재활용을 올바르게 할 수 있도록 돕는다. 
+모바일 환경에서 YOLOv8기반 Object Detection으로 쓰레기를 재활용 품목에 맞게 탐지하여 사용자들에게 올바른 재활용 가이드를 제공한다.
 
-Dataset - [AI-HUB 생활폐기물 데이터 ](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71385)
+사용한 Dataset - [AI-HUB 생활폐기물 데이터 ](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71385)
 
 
 <div align=center><h1>📚 OUR STACKS</h1></div>  <div align=center>  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">     <br>  
@@ -34,7 +34,7 @@ Dataset - [AI-HUB 생활폐기물 데이터 ](https://aihub.or.kr/aihubdata/data
 
 <br>
 
-## 배운 점 & 아쉬운 점
+## 활용방안 및 기대효과
 
 <p align="justify">
 
