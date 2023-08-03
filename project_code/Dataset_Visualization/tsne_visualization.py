@@ -11,11 +11,11 @@ from IPython.display import clear_output
 import matplotlib.image as mpimg
 
 # 좋은 후보 예시 -10,-40의 스티로폼과 종이(비닐)
-alpha = 0.4
+alpha = 0.3
 
-train_x = np.load('tsne_vec.npy')
-x_label = np.load('label_sequence.npy')
-image_paths_list = np.load('image_paths_list.npy')
+train_x = np.load('./tsne_vec.npy')
+x_label = np.load('./label_sequence.npy')
+image_paths_list = np.load('./image_paths_list.npy')
 x_label.shape , train_x.shape , image_paths_list.shape
 
 k_label = { 0 : '종이' , 1 : '종이팩' ,2 : '종이컵' , 3 : '캔' ,
@@ -109,7 +109,8 @@ def draw_scatter_with_tooltips(train_x, x_label, image_paths_list):
 
     # 색상 막대 직접 생성하여 라벨 표시
     cbar = fig.colorbar(scatter, ax=ax)
-    cbar.set_ticks(np.arange(len(np.unique(x_label))) + 0.5)
+    cbar.set_ticks(np.arange(len(np.unique(x_label))) + 0.0)
+    print(f'고윳값 개수 : {len(np.unique(x_label))}')
     cbar.set_ticklabels([k_label[int(l)] for l in np.unique(x_label)])
 
     plt.xlabel('X 좌표')
