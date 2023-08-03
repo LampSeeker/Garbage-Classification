@@ -1,6 +1,9 @@
-<img src="./images/move_garbage.gif">
+# Team BIO : 재활용품 분리배출 도우미
 
-# PROJECT NAME : 재활용품 분리배출 도우미
+<p align="center">
+  <img src="./images/move_garbage.gif" alt="thumbnail" width="400"/>
+</p>
+
 
 ## 프로젝트 소개
 
