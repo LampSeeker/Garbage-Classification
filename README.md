@@ -1,10 +1,5 @@
-
+<img src="./images/github_main_images.png" width="100" height="400"/>
 # PROJECT NAME : 재활용품 분리배출 도우미
-
-<img src="./images/github_main_images.png" style="zoom:30%"/>
-<img src="./images/github_main_images.png" width="100" height="100"/>
-
-목차
 
 ## 프로젝트 소개
 
