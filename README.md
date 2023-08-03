@@ -40,10 +40,21 @@
 
 <table>
   <tr>
-    <td><p align="center"><img src="./images/tsne_sameClass.gif" alt="thumbnail" width="400"/></p></td>
-    <td><p align="center"><img src="./images/tsne_diffClass.gif" alt="thumbnail" width="400"/></p></td>
+    <td>
+      <div style="다른 공간 같은 Class 이미지 예시;">
+        <img src="./images/tsne_sameClass.gif" alt="thumbnail" width="400"/>
+        <p>Name 1</p>
+      </div>
+    </td>
+    <td>
+      <div style="비슷한 공간 다른 Class 이미지 예시;">
+        <img src="./images/tsne_dffClass.gif" alt="thumbnail" width="400"/>
+        <p>Name 2</p>
+      </div>
+    </td>
   </tr>
 </table>
+
 
 
 <br>
