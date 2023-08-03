@@ -24,7 +24,7 @@ Yolo v8n 버전과 AI HUB의 재활용쓰레기 데이터셋을 이용한 재활
 
 ## 기술 스택
 
-**Frameworks**
+<span style="font-size:14px;">**Frameworks**</span>
 
 - Pytorch , OpenCV(cv2) , Ultralytics , fastai
 
