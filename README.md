@@ -61,12 +61,13 @@
 ## 디렉토리 설명
 
 Garbage-Classification<br>          
-┣ Mobile_Develop                  # 안드로이드 어플리케이션 개발 파일<br>
-┣ Model_Develop                   # 모델 및 데이터 개발 파일<br>
-┃ ┣ Custom_Model                  # YOLO 패키지 수정 <br>
+┣ Mobile_Develop <br>
+┣ Model_Develop  <br>
+┃ ┣ Custom_Model <br>
 ┃ ┃ ┗ ultralytics <br>
 ┃ ┣ Dataset_Sampling <br>
-┃ ┗ Dataset_Visualization <br>
+┃ ┣ Dataset_Visualization <br>
+┃ ┗ Model_Train
 
 
 
