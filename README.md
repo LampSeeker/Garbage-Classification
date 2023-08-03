@@ -48,7 +48,7 @@
     </td>
     <td>
       <div style="text-align: center;">
-        <img src="./images/tsne_diffClass.gif" alt="thumbnail" width="400"/>
+        <img src="./images/tsne_dffClass.gif" alt="thumbnail" width="400"/>
         <p>비슷한 공간 다른 Class 이미지 예시</p>
       </div>
     </td>
