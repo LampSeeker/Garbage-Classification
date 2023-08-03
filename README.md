@@ -1,4 +1,4 @@
-# 재활용품 분리배출 도우미
+# PROJECT NAME : 재활용품 분리배출 도우미
 
 <p align="center">
   <br>
