@@ -7,7 +7,7 @@
 
 ## 프로젝트 소개
 
-모바일 환경에서 YOLOv8기반 Object Detection으로 쓰레기를 재활용 품목에 맞게 탐지하여 사용자들에게 올바른 재활용 가이드를 제공한다.
+모바일 환경에서 YOLOv8기반 Object Detection으로 재활용 쓰레기를 탐지하여 사용자들에게 올바른 재활용 가이드를 제공한다.
 
 사용한 Dataset - [AI-HUB 생활폐기물 데이터 ](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71385)
 
