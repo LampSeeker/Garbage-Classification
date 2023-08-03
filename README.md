@@ -38,9 +38,13 @@
 
 추출한 이미지 벡터로 T-SNE 및 PCA 시각화를 진행하였고 내부적으로 정성적 평가를 위해 각 이미지를 비교할 수 있도록 도구를 개발하였다.
 
-<p align="center">
-  <img src="./images/tsne_sameClass.gif" alt="thumbnail" width="400"/>
-</p>
+<table>
+  <tr>
+    <td><p align="center"><img src="./images/tsne_sameClass.gif" alt="thumbnail" width="400"/></p></td>
+    <td><p align="center"><img src="./images/tsne_diffClass.gif" alt="thumbnail" width="400"/></p></td>
+  </tr>
+</table>
+
 
 <br>
 
