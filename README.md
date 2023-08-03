@@ -1,19 +1,13 @@
-<img src="./images/github_main_images.png" width="100" height="400"/>
+<img src="./images/move_garbage.gif">
+
 # PROJECT NAME : 재활용품 분리배출 도우미
 
 ## 프로젝트 소개
 
-<p align="justify">
 Yolo v8 모델을 사용한 Object Detection으로 사용자가 재활용을 올바르게 할 수 있도록 돕는다. 
 
 Dataset - [AI-HUB 생활폐기물 데이터 ](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71385)
-</p>
 
-<p align="center">
-<img src="./images/move_garbage.gif">
-</p>
-
-<br>
 
 <div align=center><h1>📚 OUR STACKS</h1></div>  <div align=center>  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">     <br>  
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">  <img src="https://img.shields.io/badge/FASTAI-40AEF0?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/yolo-21375A?style=for-the-badge&logo=yolo&logoColor=white"> <img src="https://img.shields.io/badge/ultralytics-2D50A5?style=for-the-badge&logo=ultralytics&logoColor=white">  <br>  
