@@ -48,7 +48,7 @@ import ai.onnxruntime.OrtEnvironment;
 import ai.onnxruntime.OrtException;
 import ai.onnxruntime.OrtSession;
 
-
+import android.util.DisplayMetrics;
 public class MainActivity extends AppCompatActivity {
     private ProcessCameraProvider processCameraProvider;
     private PreviewView previewView;
@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
     private OrtSession ortSession;
     private ImageAnalysis imageAnalysis;
 
-    private DownloadTask downloadtask;
+
 
     private boolean isImageAnalysisEnabled = true;
     private boolean isPreviewPaused = false;
@@ -73,9 +73,8 @@ public class MainActivity extends AppCompatActivity {
     //재활용 사진 관리 배열
     private Bitmap[] recycle_method_images;
 
-    private ToggleButton toggleButton;
-    String fileUrl = "ec2-54-95-170-75.ap-northeast-1.compute.amazonaws.com//home/ec2-user/best_0731.onnx";
-    String destinationPath = "Download";
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -93,9 +92,6 @@ public class MainActivity extends AppCompatActivity {
 
         //Onnx 처리 지원 객체
         supportOnnx = new SupportOnnx(this);
-        //ec2 다운로드 처리 객체
-        downloadtask = new DownloadTask();
-
 
 
         //모델 불러오기
@@ -107,7 +103,6 @@ public class MainActivity extends AppCompatActivity {
 
         //카메라 켜기
         startCamera();
-        downloadtask.execute(fileUrl,destinationPath);
 
         //label name 가져오기
         labels=rectView.getLabels();
@@ -150,6 +145,8 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+
 
     private void loadRecycleImages() {
         try {
@@ -354,13 +351,19 @@ public class MainActivity extends AppCompatActivity {
                 tableRow.addView(indexTextView);
 
                 TextView recycleTextView = new TextView(this);
-                if (result.getLabel() >= 0 && result.getLabel() <= 11) {
+
+                if (result.getLabel() >= 0 && result.getLabel() <= 7) {
                     recycleTextView.setText("재활용");
                     recycleTextView.setTextColor(Color.GREEN);
-                } else {
-                    recycleTextView.setText("일반쓰레기");
+                } else if (result.getLabel() >= 8 && result.getLabel() <= 9) {
+                    recycleTextView.setText("재활용-포장재 제거");
                     recycleTextView.setTextColor(Color.YELLOW);
                 }
+                else{
+                    recycleTextView.setText("처리 방법 참고");
+                    recycleTextView.setTextColor(Color.RED);
+                }
+
                 recycleTextView.setTextSize(24);
                 // Set text color to yellow
                 tableRow.addView(recycleTextView);
