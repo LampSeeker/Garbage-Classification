@@ -1,4 +1,3 @@
-from ultralytics import YOLO
 from torch.utils.data import Dataset ,DataLoader
 import os
 import numpy as np
@@ -115,7 +114,7 @@ def draw_scatter_with_tooltips(train_x, x_label, image_paths_list):
 
     plt.xlabel('X 좌표')
     plt.ylabel('Y 좌표')
-    plt.title('T-SNE : 객체 이미지 벡터 시각화')
+    plt.title('T-SNE : 객체 이미지 벡터 시각화',fontsize=40)
     plt.show()
 
 draw_scatter_with_tooltips(train_x, x_label, image_paths_list)
