@@ -24,9 +24,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.PriorityQueue;
 
-import android.graphics.Canvas;
 public class SupportOnnx {
-    static final String fileName = "best_final.onnx";
+    static final String fileName = "best_0731.onnx";
     static final String labelName = "classesV2.txt";
     static final int INPUT_SIZE = 640;
     static final int BATCH_SIZE = 1;
@@ -196,14 +195,12 @@ public class SupportOnnx {
 
             //실제 확률 값은 4번의 확률값과 해당 label 의 확률값의 곱이다.
             float confidenceInClass = maxClass;
-
             //만약 그 확률 값이 특정 확률을 넘어서면 List 형태로 저장한다.
             if (confidenceInClass > objectThresh) {
                 float xPos = outputV8[0][i][0];
                 float yPos = outputV8[0][i][1];
                 float width = outputV8[0][i][2];
                 float height = outputV8[0][i][3];
-
                 //index 추가
                 index++;
 
